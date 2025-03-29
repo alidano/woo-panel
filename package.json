@@ -1,0 +1,1 @@
+{"name":"woo-panel","version":"1.0.0","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"latest","next-i18next":"latest","react":"latest","react-dom":"latest"},"devDependencies":{"@types/node":"22.13.14","typescript":"5.8.2"}}

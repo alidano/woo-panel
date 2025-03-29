@@ -1,0 +1,1 @@
+// Home page with language switcher and links
